@@ -1,6 +1,6 @@
 \subsection*{Star-systematic configuration for illustration of direction for extension in Deep Learning}
 
-Having access to all that surely knows currently, infer the rest as good as possible. Features, settings, assumed. $\text{Microscale} \rightarrow \text{Exascale}$. Datatypes: Numeric Array, Image, Sound (convertible to Image). Numeric Array $\rightarrow$ Image, by Image Generator, DeepDream. Build then extend, Learning links of links, Learning links, Notions Order of Links links between environments. The link is the dataset. Start rudimentarily with 5 nodes. Implement and report performance. Example: Inquiry towards $D5$. Access to $D1$ and $D2$. Try $D1 \rightarrow D5$ and $D2 \rightarrow D5$. Try $D1 \rightarrow D2 \rightarrow D5$ and $D2 \rightarrow D1 \rightarrow D5$$.
+Main file: Ytractorfunctional.py. Having access to all that surely knows currently, infer the rest as good as possible. Features, settings, assumed. $\text{Microscale} \rightarrow \text{Exascale}$. Datatypes: Numeric Array, Image, Sound (convertible to Image). Numeric Array $\rightarrow$ Image, by Image Generator, DeepDream. Build then extend, Learning links of links, Learning links, Notions Order of Links links between environments. The link is the dataset. Start rudimentarily with 5 nodes. Implement and report performance. Example: Inquiry towards $D5$. Access to $D1$ and $D2$. Try $D1 \rightarrow D5$ and $D2 \rightarrow D5$. Try $D1 \rightarrow D2 \rightarrow D5$ and $D2 \rightarrow D1 \rightarrow D5$$.
 
 \begin{center}
 \begin{tikzpicture}
